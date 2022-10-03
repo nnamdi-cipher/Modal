@@ -1,5 +1,5 @@
 # Modal
-Javascript mini project
+## Javascript mini project
 
 In the course of learning JavaScript, part of the projects was making a modal that would only appear when a button was clicked. 
 
